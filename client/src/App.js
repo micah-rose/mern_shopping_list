@@ -17,3 +17,4 @@ class App extends Component {
 }
 
 export default App;
+//Starting up this project again for refactoring and completion.
