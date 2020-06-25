@@ -19,3 +19,4 @@ class App extends Component {
 export default App;
 //Starting up this project again for refactoring and completion.
 //Reinstalled npm to include node modules
+//Tried to run based on existing code, there is an issue with connecting to Mongo that I will need to correct.
